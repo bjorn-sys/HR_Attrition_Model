@@ -5,25 +5,7 @@
 
 # 🗂️ Project Structure
 
-# 📁 HR_Attrition_Predictor/
-│
-├── data/
-│   └── WA_Fn-UseC_-HR-Employee-Attrition.csv
-│
-├── notebooks/
-│   └── hr_attrition_analysis.ipynb
-│
-├── app/
-│   └── streamlit_app.py
-│
-├── models/
-│   └── xgb_model.pkl
-│   └── label_encoders.pkl
-│
-└── README.md
-
 ---
-
 
 # 🧰 Tools & Technologies Used
 * Python
