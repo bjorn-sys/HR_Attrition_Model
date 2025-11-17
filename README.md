@@ -79,15 +79,19 @@
 
 **✅ Random Forest Classifier**
 **Metric	Score**
-* Train Accuracy	88%
-* Test Accuracy	87%
-* ROC AUC	0.73
+* Train acc   1.00%
+* Test acc    0.94%
+* Recall   97%
+* Precision  	95%
+* ROC AUC	0.99
 
 **✅ XGBoost Classifier (With Oversampling)**
 **Metric	Score**
-* Train Accuracy	97%
-* Test Accuracy	85%
-* ROC AUC	0.79 ✅
+* Train acc   1.00%
+* Test acc    0.95%
+* Recall   98%
+* Precision  	94%
+* ROC AUC	0.98
 ---
 
 # 🚀 XGBoost showed better generalization with higher ROC AUC, making it the final model of choice.
